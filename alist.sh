@@ -62,7 +62,7 @@ ali_drive:
   drives:
   - refresh_token: $ATOKEN
     root_folder: $BFOLDER
-    name: home
+    name: Home
     password: 2481
     hide: false
 database:
