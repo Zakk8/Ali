@@ -12,8 +12,8 @@ cat >/alist/config/conf.yml <<EOF
 info:
   title: $CTITLE
   logo:
-  footer_text: Cooluc's Blog
-  footer_url: https://www.cooluc.com/
+  footer_text: 旺仔微博
+  footer_url: https://weibo.com/u/7523590830
   music_img: https://cdn.jsdelivr.net/gh/sbwml/cdn@master/img/0f8b57866bdb5.gif
   check_update: false
   script: ""
@@ -63,7 +63,7 @@ ali_drive:
   - refresh_token: $ATOKEN
     root_folder: $BFOLDER
     name: home
-    password: ""
+    password: 2481
     hide: false
 database:
   type: sqlite3
