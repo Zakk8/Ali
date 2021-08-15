@@ -63,7 +63,7 @@ ali_drive:
   - refresh_token: $ATOKEN
     root_folder: $BFOLDER
     name: Home
-    password: 2481
+    password: 2306
     hide: false
 database:
   type: sqlite3
